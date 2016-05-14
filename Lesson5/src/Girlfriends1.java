@@ -12,5 +12,6 @@ public class Girlfriends1 {
 		
 		System.out.println("The third girl's name is " + friends[2]);
 		System.out.println("The twentieth girl's name is " + friends[19]);
+		System.out.println("Test1");
 	}
 }
